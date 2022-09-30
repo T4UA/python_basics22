@@ -4,6 +4,6 @@ for elemento in lista:
 	if elemento % 2 == 0:
 		cont+=1
 if cont == 1:
-	print(f'Nessa lista tem exatamente {count} número par')
+	print(f'Nessa lista tem exatamente {cont} número par')
 else:
-	print(f'Nessa lista tem exatamente {count} números pares')
+	print(f'Nessa lista tem exatamente {cont} números pares')
