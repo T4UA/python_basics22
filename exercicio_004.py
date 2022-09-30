@@ -1,4 +1,4 @@
-i = 1
-while i < 11:
-	print(f'9 x {i} = {9*i}')
-	i+=1
+contador = 1
+while contador < 11:
+	print(f'9 x {contador} = {9*contador}')
+	contador+=1
